@@ -1,0 +1,4 @@
+start::
+start cmd;
+myid::
+checkmyid cmd
